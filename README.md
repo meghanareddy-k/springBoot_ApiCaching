@@ -30,7 +30,7 @@ To run the Spring Boot REST API locally, follow these steps:
 
 ## Clone the repository:
 
-git clone https://github.com/sriharshaperi/spring_boot_api_caching.git
+git clone https://github.com/meghanareddy-k/springBoot_ApiCaching.git
 
 ## Install the required dependencies
 
